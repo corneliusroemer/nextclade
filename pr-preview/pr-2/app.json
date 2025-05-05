@@ -1,8 +1,8 @@
 {
   "name": "@nextstrain/nextclade-web",
-  "version": "3.13.1",
+  "version": "3.13.2",
   "branchName": "HEAD",
-  "commitHash": "2841436c7f5672e21613d7473580aa869aab884b",
+  "commitHash": "f96db4748fe0931155650f1279dc260601a33650",
   "buildNumber": null,
   "buildUrl": null,
   "domain": "https://master.clades.nextstrain.org",
