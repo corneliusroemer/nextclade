@@ -1,5 +1,0 @@
-.snakemake/
-dataset/
-results/
-sequences/
-*_build/

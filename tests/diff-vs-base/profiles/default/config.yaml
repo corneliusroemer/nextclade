@@ -1,5 +1,0 @@
-cores: all
-configfile: profiles/default/config_dict.yaml
-printshellcmds: true
-rerun-incomplete: true
-keep-going: true
